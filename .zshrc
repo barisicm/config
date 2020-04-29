@@ -108,6 +108,7 @@ path+=('/home/mbarisic/go/bin')
 path+=('/home/mbarisic/Downloads/emsdk')
 path+=('/home/mbarisic/Downloads/emsdk/node/12.9.1_64bit/bin')
 path+=('/home/mbarisic/Downloads/emsdk/upstream/emscripten')
+path+=('/home/mbarisic/bin')
 
 export PATH
 
